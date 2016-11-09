@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif;
+}
+
+.heroimage {
+	display: block;
+	padding-left: 40%;
+	padding-right: 40%;
+	width: 400px;
+	height: 400px;
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 90%;
+}
+
+header {
+	width: 100%;
+	;
+}
+
+h1 {
+	width: 400px;
+	padding-left: 40%;
+	padding-right: 40%;
+	font-size: 12pt;
+}
+
